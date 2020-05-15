@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TitleComponent.qml</file>
+        <file>StatusComponent.qml</file>
+        <file>OperatorComponent.qml</file>
+        <file>SourceComponent.qml</file>
+        <file>MaterialComponent.qml</file>
+        <file>MainComponent.qml</file>
+        <file>ControlComponent.qml</file>
+        <file>PlayerComponent.qml</file>
+        <file>AddSourceDialog.qml</file>
+    </qresource>
+</RCC>

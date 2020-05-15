@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.png</file>
+        <file>images/maximum_normal.png</file>
+        <file>images/maximum_pressed.png</file>
+        <file>images/minimum_normal.png</file>
+        <file>images/minimum_pressed.png</file>
+        <file>images/pb_close_normal.png</file>
+        <file>images/pb_close_pressed.png</file>
+        <file>images/settings_menu_normal.png</file>
+        <file>images/settings_menu_pressed.png</file>
+        <file>images/live tool_icon_announcement.png</file>
+        <file>images/pb_live_content_normal.png</file>
+        <file>images/pb_live_content_over.png</file>
+        <file>images/live tlool_icon_picture_hover.png</file>
+        <file>images/live tlool_icon_picture_normal.png</file>
+        <file>images/live tool_icon_camera_hover.png</file>
+        <file>images/live tool_icon_camera_normal.png</file>
+        <file>images/live tool_icon_full_hover.png</file>
+        <file>images/live tool_icon_full_normal.png</file>
+        <file>images/live tool_icon_screenshots_hover.png</file>
+        <file>images/live tool_icon_screenshots_normal.png</file>
+        <file>images/live tool_icon_source_hover.png</file>
+        <file>images/live tool_icon_source_normal.png</file>
+        <file>images/live tool_icon_video_hover.png</file>
+        <file>images/live tool_icon_video_normal.png</file>
+        <file>images/live_tool_icon_text_hover.png</file>
+        <file>images/live_tool_icon_text_normal.png</file>
+        <file>images/window_icon_full_hover.png</file>
+        <file>images/window_icon_full_normal.png</file>
+        <file>images/live tool_icon_According_to.png</file>
+        <file>images/live tool_icon_delete.png</file>
+        <file>images/live tool_icon_down.png</file>
+        <file>images/live tool_icon_hidden.png</file>
+        <file>images/live tool_icon_up.png</file>
+        <file>images/live tool_menu_icon_settings .png</file>
+        <file>images/lb_wechat_login.png</file>
+        <file>images/lb_group_chat.png</file>
+        <file>images/lb_hot.png</file>
+        <file>images/bullet_screen_normal.png</file>
+        <file>images/group_settings_normal.png</file>
+        <file>images/group_settings_pressed.png</file>
+        <file>images/room_management_normal.png</file>
+        <file>images/send_red packet_normal.png</file>
+        <file>images/send_red packet_pressed.png</file>
+        <file>images/sound_effect_normal.png</file>
+        <file>images/sound_effect_pressed.png</file>
+        <file>images/live tool_icon_barrage_hover.png</file>
+        <file>images/live tool_icon_room management_hover.png</file>
+        <file>images/live tool_icon_mike no_hover .png</file>
+        <file>images/live tool_icon_mike no_normal.png</file>
+        <file>images/live tool_icon_mike_hover.png</file>
+        <file>images/live tool_icon_mike_normal.png</file>
+        <file>images/live tool_icon_mute_hover.png</file>
+        <file>images/live tool_icon_mute_normal.png</file>
+        <file>images/live tool_icon_the horn_hover.png</file>
+        <file>images/live tool_icon_the horn_normal.png</file>
+        <file>images/pb_record_close.png</file>
+        <file>images/pb_record_open.png</file>
+        <file>images/live tool_icon_settings_hover.png</file>
+        <file>images/live tool_icon_settings_normal.png</file>
+        <file>images/pb_stream_normal.png</file>
+    </qresource>
+</RCC>
